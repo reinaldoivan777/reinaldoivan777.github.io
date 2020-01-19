@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "reinaldoivan777.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "reinaldoivan777.github.io/static/js/main.eac308ef.chunk.js",
+    "main.js.map": "reinaldoivan777.github.io/static/js/main.eac308ef.chunk.js.map",
+    "runtime-main.js": "reinaldoivan777.github.io/static/js/runtime-main.544620ab.js",
+    "runtime-main.js.map": "reinaldoivan777.github.io/static/js/runtime-main.544620ab.js.map",
+    "static/js/2.9e9da9f0.chunk.js": "reinaldoivan777.github.io/static/js/2.9e9da9f0.chunk.js",
+    "static/js/2.9e9da9f0.chunk.js.map": "reinaldoivan777.github.io/static/js/2.9e9da9f0.chunk.js.map",
+    "index.html": "reinaldoivan777.github.io/index.html",
+    "precache-manifest.fde93ad43ade860dbd520061d472d838.js": "reinaldoivan777.github.io/precache-manifest.fde93ad43ade860dbd520061d472d838.js",
+    "service-worker.js": "reinaldoivan777.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "reinaldoivan777.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9e9da9f0.chunk.js.LICENSE": "reinaldoivan777.github.io/static/js/2.9e9da9f0.chunk.js.LICENSE",
+    "static/media/logo.svg": "reinaldoivan777.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544620ab.js",
+    "static/js/2.9e9da9f0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eac308ef.chunk.js"
+  ]
+}
